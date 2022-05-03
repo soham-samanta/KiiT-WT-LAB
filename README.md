@@ -7,7 +7,5 @@ All codes of KiiT 4th sem WT Lab
 ### Code editor for WT : VS Code
 
 # Download Link :
-Intellij IDEA
-- https://www.jetbrains.com/idea/download/#section=mac <br>
-VS Code
+- https://www.jetbrains.com/idea/download/#section=mac 
 - https://code.visualstudio.com/download
