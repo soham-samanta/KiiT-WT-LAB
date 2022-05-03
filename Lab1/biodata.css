@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(250, 250, 250);
+}
+
+header {
+    padding: 40px;
+    background-color: rgb(248, 14, 248);
+}
+
+img{
+    border-radius: 145px;
+}
+
+main {
+    background-color: rgb(25, 37, 216);
+    text-align: center;
+}
+
+section {
+    min-height: 100vh;
+    text-align: center;
+}
+
+h4{
+    font-style: bold;
+}
+
+h5{
+    font-style: italic;
+}
+
+footer {
+    background-color: #333;
+    overflow: hidden;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
